@@ -1,0 +1,15 @@
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\bin\Debug\net6.0\Author-and-Book-Management-System.exe
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\bin\Debug\net6.0\Author-and-Book-Management-System.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\bin\Debug\net6.0\Author-and-Book-Management-System.runtimeconfig.json
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\bin\Debug\net6.0\Author-and-Book-Management-System.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\bin\Debug\net6.0\Author-and-Book-Management-System.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\obj\Debug\net6.0\Author-and-Book-Management-System.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\obj\Debug\net6.0\Author-and-Book-Management-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\obj\Debug\net6.0\Author-and-Book-Management-System.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\obj\Debug\net6.0\Author-and-Book-Management-System.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\obj\Debug\net6.0\Author-and-Book-Management-System.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\obj\Debug\net6.0\Author-and-Book-Management-System.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\obj\Debug\net6.0\refint\Author-and-Book-Management-System.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\obj\Debug\net6.0\Author-and-Book-Management-System.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\obj\Debug\net6.0\Author-and-Book-Management-System.genruntimeconfig.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\Author and Book Management System (OOP)\Author-and-Book-Management-System\Author-and-Book-Management-System\obj\Debug\net6.0\ref\Author-and-Book-Management-System.dll
